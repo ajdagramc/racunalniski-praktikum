@@ -30,6 +30,7 @@ Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
 - [ ] Sinhronizirajte spremembe z repozitorijem na GitHubu: najprej naredite `commit` (smiselno sporočilo bi bilo npr. "dopolni README z vajami za Markdown"), nato pa še `push`.
 
 <!-- 2. nivojski razdelek -->
+Povezava do spletne strani: https://ajdagramc.github.io/
 ## Uporabne povezave
 
 1. [FMF učilnica](https://ucilnica.fmf.uni-lj.si/) 
